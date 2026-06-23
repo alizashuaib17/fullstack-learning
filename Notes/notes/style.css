@@ -1,0 +1,35 @@
+body {
+background-color: lightblue;
+font-family: Arial;
+}
+
+h1 {
+color: darkblue;
+text-align: center;
+}
+
+p {
+font-size: 18px;
+}
+
+ul {
+list-style-type: square;
+}
+
+li {
+color: darkgreen;
+}
+
+form {
+background-color: white;
+padding: 20px;
+}
+
+input, textarea {
+padding: 5px;
+}
+
+button {
+background-color: blue;
+color: white;
+}
