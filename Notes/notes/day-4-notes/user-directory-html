@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Directory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>User Directory</h1>
+
+    <input type="text" id="search" placeholder="Search users">
+
+    <p id="loading">Loading...</p>
+
+    <div id="users-container"></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
